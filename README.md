@@ -1,6 +1,6 @@
 # liboqs-test
 
-### Paulo, Alberto
+### Paulo, Alberto, Victor, Marcelo F
 
 <img width="1578" alt="image" src="https://github.com/user-attachments/assets/6b50810b-0dbc-4b58-b4b8-f3de9bbfa8e2" />
 <img width="986" alt="image" src="https://github.com/user-attachments/assets/8c614826-45ff-422e-9667-bb970fcad154" />
