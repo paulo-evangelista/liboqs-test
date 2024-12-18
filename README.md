@@ -9,6 +9,9 @@
 Prova que o shared secret entre alice e bob realmente são iguais:
 <img width="671" alt="image" src="https://github.com/user-attachments/assets/25f857e2-6f47-4d72-b067-d6baec2363fd" />
 
+gerando AES:
+<img width="965" alt="image" src="https://github.com/user-attachments/assets/7edbe3d7-3dbb-426e-9429-321daedf46dc" />
+
 
 ### Ambiente
 MacOS (arm64) com clang++ 16.0.0
