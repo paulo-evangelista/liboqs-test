@@ -24,3 +24,6 @@ MacOS (arm64) com clang++ 16.0.0
 3. Eu uso um binário específico para o python, instalado com uma ferramenta não convencional. O CmakeList do programa tenta usar um python instalado com o Brew. Tive que alterar o cmakeList manualmente para usar o meu python.
 4. Descobrir que o ultimo erro era sobre a libopenssl não estar sendo linkada.
 
+---
+
+Como pede o enunciado, o alice.cpp está comentado e o algoritmo foi trocado para o 1024bits
